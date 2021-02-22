@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="UTF-8" />
-  <title>SVD-Demo: Image Compression</title>
+  <title>FAVICON</title>
   <link rel="shortcut icon" type="image/png" href="favicon.png" />
   <link rel="stylesheet" href="nouislider.min.css" />
   <link rel="stylesheet" href="slick.css" />
