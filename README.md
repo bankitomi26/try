@@ -15,8 +15,7 @@
 <body>
   <div class="wrapper">
     <h1>
-      Image Compression with<br />
-      A RÓMAI KATONASÁG IKONJAI
+       A RÓMAI KATONASÁG IKONJAI
     </h1>
     <noscript>The interactive demo runs purely on the client-side. You therefore have to enable JavaScript to enjoy it.</noscript>
   </div>
