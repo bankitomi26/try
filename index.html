@@ -21,8 +21,8 @@
   <div class="wrapper">
     <div class="explanation clearfix">
       <div class="center-column">
-        <h2><strong>FAVICON<srong/></h2>
-        <p>Legio X. Gemina Pannonia általános parancsnokának Favikon-ja</p>
+        <h2><strong>FAVICON</srong></h2> 
+       <div <p>Legio X. Gemina Pannonia általános parancsnokának Favikon-ja</p>
  <p>A projekt a Legio X.Gemina légió Legatus Legonis  favikonjának elkészítési vázlata. A projekt csak a Favikont tárgyalja részletesen. A honlap szerkezetét ebben a projektben csak érintőlegesen magyarázom.</p>
 <p>A Favikon egy weboldalhoz vagy laphoz tartozó ikon, amit a modern böngészők a navigáció megkönnyítésére különböző helyeken megjelenítenek, például a böngésző címsorának, vagy a böngészőfül elején, a könyvjelzők előtt.</p>
 <p>A favikont azért is tartom fontos, a katonaságot érintő témának, mert ezzel egyedivé tehető egy honlap. A favikon kiemelné az általános parancsnok kitüntetését vagy rangjelzését, vagy olyan attribútumát, signaculumát melyek által ráismerhetünk hordozójára. Tudvalevőleg a favikon kisméretű, ezért csak olyan szimbólum választható, mely jól kivehető és sematizált.</p>
