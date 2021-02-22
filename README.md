@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>legatus legionis helmet</title>
-  <link rel="shortcut icon" type="image/png" href="favicon.png" />
+  <link rel="shortcut icon" type="image/png" href="silhouette-an-ancient-roman-or-greek-helmet-vector-3033335.jpg" />
   <link rel="stylesheet" href="nouislider.min.css" />
   <link rel="stylesheet" href="slick.css" />
   <link rel="stylesheet" href="slick-theme.css" />
