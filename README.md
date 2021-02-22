@@ -1,11 +1,10 @@
-# try
 <!doctype html>
 
 <html>
 
 <head>
   <meta charset="UTF-8" />
-  <title>FAVICON</title>
+  <title>legatus legionis helmet</title>
   <link rel="shortcut icon" type="image/png" href="favicon.png" />
   <link rel="stylesheet" href="nouislider.min.css" />
   <link rel="stylesheet" href="slick.css" />
@@ -17,7 +16,7 @@
   <div class="wrapper">
     <h1>
       Image Compression with<br />
-      Singular Value Decomposition
+      A RÓMAI KATONASÁG IKONJAI
     </h1>
     <noscript>The interactive demo runs purely on the client-side. You therefore have to enable JavaScript to enjoy it.</noscript>
   </div>
@@ -26,10 +25,9 @@
 
   <div class="wrapper">
     <div class="explanation clearfix">
-      <div class="left-column">
+      <div class="center-column">
         <h2>FAVICON</h2>
         <p>
-          A RÓMAI KATONASÁG IKONJAI
 Legio X. Gemina Pannonia általános parancsnokának Favikon-ja
  A projekt a Legio X.Gemina légió Legatus Legonis  favikonjának elkészítési vázlata. A projekt csak a Favikont tárgyalja részletesen. A honlap szerkezetét ebben a projektben csak érintőlegesen magyarázom.  
 A Favikon egy weboldalhoz vagy laphoz tartozó ikon, amit a modern böngészők a navigáció megkönnyítésére különböző helyeken megjelenítenek, például a böngésző címsorának, vagy a böngészőfül elején, a könyvjelzők előtt. 
